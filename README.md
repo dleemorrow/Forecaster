@@ -1,2 +1,2 @@
 # Forecaster
-A java weather forecasting program
+A java weather forecasting program powered by darksky
